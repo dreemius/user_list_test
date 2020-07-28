@@ -66,9 +66,10 @@ export class UsersService {
       "username": "Karianne",
       "email": "Julianne.OConner@kory.org",
       "role": "User",
-      "phone": "493-170-9623 x156",
+      "phone": "493-170-9623 x1567",
       "website": "kale.biz"
     },
+
     {
       "id": 5,
       "name": "Chelsey Dietrich",
